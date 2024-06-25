@@ -1,15 +1,15 @@
 # Aspas simples
-print('Luiz Otavio')
-print('"Luiz Otavio"')
+print('Mario Alcara')
+print('"Mario Alcara"')
 
 # Aspas duplas
-print("Luiz Otavio")
+print("Mario Alcara")
 
 # Escape
-print("Luiz \"Otávio\"")
+print("Mario \"Alcara\"")
 
 # r
-print(r"Luiz \"Otávio\"")  
+print(r"Mario \"Alcara\"")  
 
 """
 # r mostra todos os caracteres de quando for compilado o codigo
